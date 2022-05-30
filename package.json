@@ -1,0 +1,23 @@
+{
+  "name": "jest-the-beginning-react-ms-cinti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "declareWinner.js",
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/jest-the-beginning-react-MS-Cinti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/jest-the-beginning-react-MS-Cinti/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/jest-the-beginning-react-MS-Cinti#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
